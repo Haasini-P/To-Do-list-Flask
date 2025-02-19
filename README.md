@@ -82,15 +82,3 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or feedback, reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
-Happy coding!
-
